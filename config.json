@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searcheerify",
+        "uuid": 34709220,
+        "checksum": "6eqr1s"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
